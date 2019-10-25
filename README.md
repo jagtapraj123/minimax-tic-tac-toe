@@ -27,7 +27,7 @@ We created this Tic Tac Toe game and AI bot to play it as a part of **CS 386**: 
 3. Ujjawal Tiwari 
 
 ## Contributing
-Any suggestions are in improving are appreciated.
+Any suggestions in improving are appreciated.
 
 ## License
 [GNU GPLv3](https://github.com/jagtapraj123/minimax-tic-tac-toe/blob/master/LICENSE)
